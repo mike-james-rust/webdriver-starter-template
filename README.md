@@ -33,7 +33,7 @@ C:\Program Files\AdoptOpenJDK\jdk-11.0.3.7-hotspot
 Click ok and Intellij and gradle will take over and install of of the dependency libraries :)
 
 #### Get the right chromedriver
-In the resources folder, you will need to put the chromedriver.exe , this controls chrome.
+In the resources folder, you will need to put the chromedriver.exe , this controls chrome. This can replace the placeholderforchromedriver.md file.
 
 Chromedriver is not included in this repository, you will need to download the version of chromedriver 
 that matches your version of chrome and your operating system from http://chromedriver.chromium.org/downloads
